@@ -1,1 +1,6 @@
 *.tar
+primary_data/prism4_data/prism_data.xlsx
+*.fasta
+*.FASTA
+*.txt
+mibig_data/mibig_fasta/*
