@@ -4,3 +4,4 @@ primary_data/prism4_data/prism_data.xlsx
 *.FASTA
 *.txt
 mibig_data/mibig_fasta/*
+mmseqs_db/
